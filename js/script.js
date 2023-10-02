@@ -4,7 +4,7 @@ console.log("Primeiro");
 console.log("Segundo");
 
 // Comentário de uma linha
-// CTRL + ;
+// CTRL ;
 
 /* 
 Atalho para comentário de várias linhas
